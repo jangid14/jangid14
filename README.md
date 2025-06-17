@@ -43,7 +43,7 @@ I’m passionate about building scalable applications, writing clean and efficie
 - Enhanced ERP module usability by reducing user task time by 20%.
 - Improved reporting performance by 35% via async processing and optimized queries.
 
-### 👨‍💻 Java Developer Intern @ AlmaBetter (April 2023 – February 2024)
+### 👨‍💻 Java Developer Intern @ AlmaBetter (August 2023 – February 2024)
 - Developed multi-module Spring Boot projects.
 - Implemented REST APIs and integrated SonarQube for code quality.
 - Tech Stack: **Spring Boot, Hibernate (JPA), REST APIs**
