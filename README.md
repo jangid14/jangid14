@@ -4,9 +4,9 @@
 <!-- # 👋 Hi there, I'm Deepanshu  -->
 
 <h1 align="center">Hi👋, I'm Deepanshu </h1>
-<h3 align="center">A passionate Backend JAVA developer👨🏽‍💻 from India </h3>
+<h3 align="center">A passionate JAVA Backend developer 👨🏽‍💻 from India </h3>
 
-🎯 **Java Backend Developer | Spring Boot | Hibernate | REST APIs**  
+🎯 **Core - Java | MySQL | Spring Boot | Hibernate | REST APIs | Microservices**  
 📍 Ghaziabad, U.P, India | ✉️ deepanshujangid14@gmail.com | 📞 +91 8923340175  
 🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-jangid/) • [GitHub](https://github.com/jangid14)
 
@@ -28,7 +28,7 @@ I’m passionate about building scalable applications, writing clean and efficie
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Core - Java, SQL
+- **Languages:** Java, SQL
 - **Frameworks:** Collection, Spring Boot, Spring MVC, Hibernate(ORM), JDBC  
 - **Database:** MySQL, Oracle 10g  
 - **Tools:** Eclipse, VS Code, IntelliJ, Postman, Git, Maven, Tomcat, JUnit, SonarQube  
