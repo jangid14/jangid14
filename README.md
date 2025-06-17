@@ -28,9 +28,8 @@ I’m passionate about building scalable applications, writing clean and efficie
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, SQL
+- **Languages:** Java, SQL(MySQL, Oracle 10g)
 - **Frameworks:** Collection, Spring Boot, Spring MVC, Hibernate(ORM), JDBC  
-- **Database:** MySQL, Oracle 10g  
 - **Tools:** Eclipse, VS Code, IntelliJ, Postman, Git, Maven, Tomcat, JUnit, SonarQube  
 - **Cloud:** AWS, Azure (basic knowledge)  
 - **Version Control:** Git & GitHub  
