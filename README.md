@@ -6,7 +6,7 @@
 <h1 align="center">Hi👋, I'm Deepanshu </h1>
 <h3 align="center">A passionate JAVA Backend developer 👨🏽‍💻 from India </h3>
 
-🎯 **Java | MySQL | Spring Boot | Hibernate | REST APIs | Microservices**  
+🎯 **Java | MySQL | Spring Boot | Hibernate(JPA) | REST APIs | Microservices**  
 📍 Ghaziabad, U.P, India | ✉️ deepanshujangid14@gmail.com | 📞 +91 8923340175  
 🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-jangid/) • [GitHub](https://github.com/jangid14)
 
@@ -14,8 +14,8 @@
 
 ## 💼 About Me
 
-I’m a Java Developer with 2 years of experience, including 1+ years in backend development at Tata Consultancy Services (TCS). 
-I specialize in designing and optimizing backend systems using **Java**, **Spring Boot**, **Hibernate**, and **RESTful APIs**, with solid experience in **MySQL** and **ORM frameworks**.
+I’m a Java Developer with 2 years of experience, including 1 year 3 month in backend development at Tata Consultancy Services (TCS). 
+I specialize in Designing and developing RESTful APIs using **Spring Boot**, **Hibernate (JPA)**, and **MySQL**, following **Microservices architecture** with solid experience in **Core-JAVA** and **Design Patterns**.
 
 I’m passionate about building scalable applications, writing clean and efficient code, and constantly learning new technologies to improve backend performance and system architecture.
 
@@ -43,12 +43,12 @@ I’m passionate about building scalable applications, writing clean and efficie
 A web platform to upload, organize, and showcase high-quality images in thematic collections.
 
 - Features: Like, comment, share images; admin moderation.
-- 📌 Tech Stack: Core - Java, JDBC, Spring, MySQL
+- 📌 Tech Stack: **Java, JDBC, Spring, MySQL**
 
 ### 🔸 QUIZ Examination
 A desktop-based quiz platform with timed quizzes, result tracking, and admin quiz management.
 
-- 📌 Tech Stack: Core Java, Servlets, JDBC, Oracle 10g
+- 📌 Tech Stack: **Java, Servlets, JDBC, Oracle 10g**
 
 ---
 
@@ -61,7 +61,7 @@ A desktop-based quiz platform with timed quizzes, result tracking, and admin qui
 ### 👨‍💻 Java Developer Intern @ AlmaBetter (April 2023 – February 2024)
 - Developed multi-module Spring Boot projects.
 - Implemented REST APIs and integrated SonarQube for code quality.
-- Stack: Java, Spring Boot, MySQL, Maven
+- Tech Stack: **Spring Boot, Hibernate (JPA), REST APIs**
 
 ---
 
