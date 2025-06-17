@@ -68,7 +68,6 @@ A desktop-based quiz platform with timed quizzes, result tracking, and admin qui
 
 - **MCA** – KIET Group of Institutions, Ghaziabad (2023)  
 - **BCA** – I.T.S, Ghaziabad (2020)
-- 
 ---
 
 ## 📜 Certifications
