@@ -1,23 +1,10 @@
 <!-- ## Hi there!👋 I'm Deepanshu Jangid
 ### A passionate JAVA Backend Developer! -->
 
+# 👋 Hi there, I'm Deepanshu
+
 <h1 align="center">Hi👋, I'm Deepanshu </h1>
 <h3 align="center">A passionate Backend JAVA developer👨🏽‍💻 from India </h3>
-
-<!--**jangid14/jangid14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-- 🔭 I’m a life long learner, currently exploring more about JAVA Development
-- 🌱 I’m currently learning and upskilling myself.
-- 📚 Specialized in JAVA web development.
-- 💬 Ask me about JAVA, SQL, SPRING, SPRING BOOT.
-- 📫 Reach me at **[Gmail](mailto:deepanshujangid14@gmail.com)** - deepanshujangid14@gmail.com
-- 🔗 Connect with me at **[LinkedIn](https://www.linkedin.com/in/deepanshu-jangid/)** - www.linkedin.com/in/deepanshu-jangid/
-- ❤️ I love learning new things!
-
-
-# 👋 Hi there, I'm Deepanshu
 
 🎯 **Java Backend Developer | Spring Boot | Hibernate | REST APIs**  
 📍 Ghaziabad, U.P, India | ✉️ deepanshujangid14@gmail.com | 📞 +91 8923340175  
@@ -32,14 +19,19 @@ I specialize in designing and optimizing backend systems using **Java**, **Sprin
 
 I’m passionate about building scalable applications, writing clean and efficient code, and constantly learning new technologies to improve backend performance and system architecture.
 
+- 🔭 I’m a life long learner, currently exploring more about JAVA Development
+- 📚 Specialized in JAVA Backend development.
+- 💬 Ask me about JAVA, SQL, SPRING, SPRING BOOT.
+- ❤️ I love learning new things!
+
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, SQL, HTML/CSS, JavaScript  
-- **Frameworks:** Spring Boot, Spring MVC, Hibernate, JDBC  
+- **Languages:** Core - Java, SQL
+- **Frameworks:** Collection, Spring Boot, Spring MVC, Hibernate(ORM), JDBC  
 - **Database:** MySQL, Oracle 10g  
-- **Tools:** Eclipse, VS Code, Postman, Git, Maven, Tomcat, JUnit, SonarQube  
+- **Tools:** Eclipse, VS Code, IntelliJ, Postman, Git, Maven, Tomcat, JUnit, SonarQube  
 - **Cloud:** AWS, Azure (basic knowledge)  
 - **Version Control:** Git & GitHub  
 
@@ -51,22 +43,22 @@ I’m passionate about building scalable applications, writing clean and efficie
 A web platform to upload, organize, and showcase high-quality images in thematic collections.
 
 - Features: Like, comment, share images; admin moderation.
-- 📌 Tech Stack: Core Java, JDBC, Servlets, MySQL
+- 📌 Tech Stack: Core - Java, JDBC, Spring, MySQL
 
 ### 🔸 QUIZ Examination
 A desktop-based quiz platform with timed quizzes, result tracking, and admin quiz management.
 
-- 📌 Tech Stack: Core Java, Swing, JDBC, Oracle 10g
+- 📌 Tech Stack: Core Java, Servlets, JDBC, Oracle 10g
 
 ---
 
 ## 📈 Work Experience
 
-### 🧑‍💻 Associate System Engineer @ TCS (Mar 2024 – Present)
+### 🧑‍💻 Associate System Engineer @ TCS (March 2024 – Present)
 - Enhanced ERP module usability by reducing user task time by 20%.
 - Improved reporting performance by 35% via async processing and optimized queries.
 
-### 👨‍💻 Java Developer Intern @ AlmaBetter (Apr 2023 – Feb 2024)
+### 👨‍💻 Java Developer Intern @ AlmaBetter (April 2023 – February 2024)
 - Developed multi-module Spring Boot projects.
 - Implemented REST APIs and integrated SonarQube for code quality.
 - Stack: Java, Spring Boot, MySQL, Maven
