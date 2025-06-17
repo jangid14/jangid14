@@ -37,6 +37,19 @@ I’m passionate about building scalable applications, writing clean and efficie
 
 ---
 
+## 📈 Work Experience
+
+### 🧑‍💻 Associate System Engineer @ TCS (March 2024 – Present)
+- Enhanced ERP module usability by reducing user task time by 20%.
+- Improved reporting performance by 35% via async processing and optimized queries.
+
+### 👨‍💻 Java Developer Intern @ AlmaBetter (April 2023 – February 2024)
+- Developed multi-module Spring Boot projects.
+- Implemented REST APIs and integrated SonarQube for code quality.
+- Tech Stack: **Spring Boot, Hibernate (JPA), REST APIs**
+
+---
+
 ## 📂 Projects
 
 ### 🔸 Perfect Picture Pool
@@ -52,24 +65,11 @@ A desktop-based quiz platform with timed quizzes, result tracking, and admin qui
 
 ---
 
-## 📈 Work Experience
-
-### 🧑‍💻 Associate System Engineer @ TCS (March 2024 – Present)
-- Enhanced ERP module usability by reducing user task time by 20%.
-- Improved reporting performance by 35% via async processing and optimized queries.
-
-### 👨‍💻 Java Developer Intern @ AlmaBetter (April 2023 – February 2024)
-- Developed multi-module Spring Boot projects.
-- Implemented REST APIs and integrated SonarQube for code quality.
-- Tech Stack: **Spring Boot, Hibernate (JPA), REST APIs**
-
----
-
 ## 🎓 Education
 
 - **MCA** – KIET Group of Institutions, Ghaziabad (2023)  
-- **BCA** – I.T.S, Ghaziabad (2020)  
-
+- **BCA** – I.T.S, Ghaziabad (2020)
+- 
 ---
 
 ## 📜 Certifications
