@@ -6,7 +6,7 @@
 <h1 align="center">Hi👋, I'm Deepanshu </h1>
 <h3 align="center">A passionate JAVA Backend developer 👨🏽‍💻 from India </h3>
 
-🎯 **Java | MySQL | Spring Boot | Hibernate(JPA) | REST APIs | Microservices**  
+🎯 **Java | MySQL | Spring Boot | Hibernate(ORM) | REST APIs | Microservices**  
 📍 Ghaziabad, U.P, India | ✉️ deepanshujangid14@gmail.com | 📞 +91 8923340175  
 🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-jangid/) • [GitHub](https://github.com/jangid14)
 
