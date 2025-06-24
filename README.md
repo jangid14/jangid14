@@ -51,16 +51,26 @@ I’m passionate about building scalable applications, writing clean and efficie
 
 ## 📂 Projects
 
+### 🔸 Online Student Management System
+**Key Responsibilities:**
+- Developed 8+ RESTful APIs using Spring Boot and Hibernate for student data operations.
+- Designed entity relationships with JPA annotations; implemented DAO layer with Hibernate ORM.
+- Secured application using Spring Security and validated input with custom exception handling.
+- Integrated MySQL to store and retrieve over 40 student records efficiently.
+**Impact:**
+- Reduced API response time by 30% with optimized queries and indexing.
+- Improved code modularity and reuse by 40% through layered architecture (Controller, Service, DAO).
+
+
+- 📌 Tech Stack: **Java, Spring Boot, Hibernate**
+
 ### 🔸 Perfect Picture Pool
 A web platform to upload, organize, and showcase high-quality images in thematic collections.
-
+- Developed an interactive photo-sharing web application that enables users to upload, organize, and engage with high-quality images, enhancing community engagement and creativity by 50%.
+- Contains admin panel features for moderating content, managing featured images, and ensuring quality compliance with access control mechanisms.
+- Utilized MySQL for structured data storage and efficient querying of user content
 - Features: Like, comment, share images; admin moderation.
 - 📌 Tech Stack: **Java, JDBC, Spring, MySQL**
-
-### 🔸 QUIZ Examination
-A desktop-based quiz platform with timed quizzes, result tracking, and admin quiz management.
-
-- 📌 Tech Stack: **Java, Servlets, JDBC, Oracle 10g**
 
 ---
 
