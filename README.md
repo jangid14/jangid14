@@ -14,24 +14,24 @@
 
 ## 💼 About Me
 
-I’m a Java Developer with 2 years of experience, including 1 year 3 month in backend development at Tata Consultancy Services (TCS). 
+I’m a Java Developer with 2 years of experience, currently working as a backend developer at Tata Consultancy Services (TCS). 
 I specialize in Designing and developing RESTful APIs using **Spring Boot**, **Hibernate (JPA)**, and **MySQL**, following **Microservices architecture** with solid experience in **Core-JAVA** and **Design Patterns**.
 
 I’m passionate about building scalable applications, writing clean and efficient code, and constantly learning new technologies to improve backend performance and system architecture.
 
 - 🔭 I’m a life long learner, currently exploring more about JAVA Development
 - 📚 Specialized in JAVA Backend development.
-- 💬 Ask me about JAVA, SQL, SPRING, SPRING BOOT.
+- 💬 Ask me about JAVA, SQL, SPRING, SPRING BOOT, MICROSERVICES.
 - ❤️ I love learning new things!
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, SQL(MySQL, Oracle 10g)
+- **Languages:** Java 8+, SQL(MySQL, Oracle 10g)
 - **Frameworks:** Collection, Spring Boot, Spring MVC, Hibernate(ORM), JDBC, Microservices  
 - **Tools:** Eclipse, VS Code, IntelliJ, Postman, Git, Maven, Tomcat, JUnit, SonarQube  
-- **Cloud:** AWS, Azure (basic knowledge)  
+- **Cloud:** AWS, Azure (basic)  
 - **Version Control:** Git & GitHub  
 
 ---
