@@ -51,9 +51,9 @@ I’m passionate about building scalable applications, writing clean and efficie
 
 ## 📂 Projects
 
-### 🔸 Online Student Management System
+### 🔸 User Management System
 **Key Responsibilities:**
-- Developed 8+ RESTful APIs using Spring Boot and Hibernate for student data operations.
+- Developed 8+ RESTful APIs using Spring Boot and Hibernate for data operations.
 - Designed entity relationships with JPA annotations; implemented DAO layer with Hibernate ORM.
 - Secured application using Spring Security and validated input with custom exception handling.
 - Integrated MySQL to store and retrieve over 40 student records efficiently.
