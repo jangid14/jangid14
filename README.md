@@ -14,12 +14,12 @@
 
 ## 💼 About Me
 
-I’m a Java Developer with 2 years of experience, currently working as a backend developer at Tata Consultancy Services (TCS). 
-I specialize in Designing and developing RESTful APIs using **Spring Boot**, **Hibernate (JPA)**, and **MySQL**, following **Microservices architecture** with solid experience in **Core-JAVA** and **Design Patterns**.
+I’m a Java Developer with 3 years of experience, currently working as a backend Engineer at UIDAI AADHAAR - Government Of India. 
+I specialize in Designing and developing RESTful APIs using **Spring Boot**, **Hibernate (JPA)**, and **MySQL**, following **Microservices architecture**, and **AWS** with solid experience in **Core-JAVA**, **System Design** and **Design Patterns**.
 
 I’m passionate about building scalable applications, writing clean and efficient code, and constantly learning new technologies to improve backend performance and system architecture.
 
-- 🔭 I’m a life long learner, currently exploring more about JAVA Development
+- 🔭 I’m a life long learner, currently exploring more about Backend Development
 - 📚 Specialized in JAVA Backend development.
 - 💬 Ask me about JAVA, SQL, SPRING, SPRING BOOT, MICROSERVICES.
 - ❤️ I love learning new things!
