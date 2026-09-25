@@ -14,10 +14,8 @@
 
 ## 💼 About Me
 
-I’m a Java Developer with 3 years of experience, currently working as a backend Engineer at UIDAI AADHAAR - Government Of India. 
-I specialize in Designing and developing RESTful APIs using **Spring Boot**, **Hibernate (JPA)**, and **MySQL**, following **Microservices architecture**, and **AWS** with solid experience in **Core-JAVA**, **System Design** and **Design Patterns**.
 
-I’m passionate about building scalable applications, writing clean and efficient code, and constantly learning new technologies to improve backend performance and system architecture.
+I’m a Java Developer with 3 years of experience, currently working as a backend Engineer at UIDAI AADHAAR - Government Of India. Java Backend Developer with 3+ years of experience designing and scaling RESTful Microservices using Spring Boot, Hibernate, Kafka, MySQL, and AWS for high-availability financial and government platforms serving 1B+ users. Delivered 30% database performance improvement, 20% reduction in incident recurrence, and 50% improvement in code quality through SonarQube, CI/CD pipelines, code reviews, and zero-downtime blue-green deployments.
 
 - 🔭 I’m a life long learner, currently exploring more about Backend Development
 - 📚 Specialized in JAVA Backend development.
@@ -39,17 +37,43 @@ I’m passionate about building scalable applications, writing clean and efficie
 ## 📈 Work Experience
 
 ### 🧑‍💻 Backend Engineer @ UIDAI AADHAAR - GOVERNMENT OF INDIA (January 2026 – Present)
-- Enhanced ERP module usability by reducing user task time by 20%.
-- Improved reporting performance by 35% via async processing and optimized queries.
-- 
+– Lead incident management and root cause analysis (RCA) for high-priority issues across Java/Spring Boot microservices,
+achieving 100% SLA adherence and zero escalations in a zero-tolerance government IT environment.
+– Develop and support critical Java-based backend infrastructure for UIDAI (Aadhaar), maintaining 99.9% uptime for RESTful
+services used by 1B+ citizens nationwide.
+– Monitor real-time application and API performance via Grafana dashboards across MySQL and Kafka-based microservices,
+proactively identifying degradation and ensuring SLA compliance before user impact.
+– Collaborate with network, security, and application teams to debug, optimize, and deploy backend services across a largescale, mission-critical Java microservices architecture.
 
 ### 🧑‍💻 Associate System Engineer @ TCS (March 2024 – October 25)
-- Enhanced ERP module usability by reducing user task time by 20%.
-- Improved reporting performance by 35% via async processing and optimized queries.
+**Project: NSE – National Stock Exchange**
+- Architected and delivered high-throughput Microservices using Java, Spring Boot, and RESTful APIs on one of India's largest
+stock exchange platforms — supporting 100% real-time trading operations.
+– Owned end-to-end feature delivery: requirement analysis → system design → schema design → API development → cloud
+deployment — reducing handoff delays by ensuring single-point accountability.
+– Migrated Spring Boot applications to AWS Cloud (EC2, S3, RDS, API Gateway), optimizing performance and cutting
+operational overhead through managed cloud services.
+– Boosted MySQL database performance by 30% via advanced query optimization, strategic indexing, table partitioning, and
+caching — directly reducing query latency on high-volume financial data.
+– Participated in Agile sprints — sprint planning, daily standups, and code reviews — consistently delivering features on
+schedule with zero critical defect escapes.
+
+**Project: IndiaFirst Life Insurance**
+- Built and maintained a high-availability policy management system serving 1M+ customers with continuous uptime and fully
+secure transaction processing.
+– Executed 100+ SQL queries weekly for policy corrections, premium reconciliation, and regulatory report generation —
+achieving zero data loss and full audit compliance.
+– Led root cause analysis (RCA) for critical production incidents; implemented process improvements that reduced repeat
+incidents by 20% and improved system reliability.
 
 ### 👨‍💻 Java Developer Intern @ AlmaBetter (August 2023 – March 2024)
-- Developed multi-module Spring Boot projects.
-- Implemented REST APIs and integrated SonarQube for code quality.
+**Project: ContactMate — Cloud-Based Contact Management System**
+- Designed and built a production-deployed, cloud-based Contact Management System using Java, Spring Boot, MySQL,
+Hibernate, Spring Security, and Microservices architecture.
+– Implemented OAuth 2.0 authentication, BCrypt encryption, and Spring Mail email verification — delivering end-to-end
+secure user onboarding and data protection.
+– Designed generic, reusable APIs that reduced development redundancy and improved API response time by 40%; used
+SonarQube to achieve a 50% improvement in code quality scores
 - Tech Stack: **Spring Boot, Hibernate (JPA), REST APIs**
 
 ---
@@ -66,7 +90,6 @@ I’m passionate about building scalable applications, writing clean and efficie
 - Reduced API response time by 30% with optimized queries and indexing.
 - Improved code modularity and reuse by 40% through layered architecture (Controller, Service, DAO).
 
-
 - 📌 Tech Stack: **Java, Spring Boot, Hibernate**
 
 ### 🔸 Perfect Picture Pool
@@ -75,6 +98,7 @@ A web platform to upload, organize, and showcase high-quality images in thematic
 - Contains admin panel features for moderating content, managing featured images, and ensuring quality compliance with access control mechanisms.
 - Utilized MySQL for structured data storage and efficient querying of user content
 - Features: Like, comment, share images; admin moderation.
+
 - 📌 Tech Stack: **Java, JDBC, Spring, MySQL**
 
 ---
