@@ -28,7 +28,7 @@ I’m passionate about building scalable applications, writing clean and efficie
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java 8+, SQL(MySQL, Oracle 10g)
+- **Languages:** Java 8+, Python, SQL(MySQL, Oracle 10g)
 - **Frameworks:** Collection, Spring Boot, Spring MVC, Hibernate(ORM), JDBC, Microservices  
 - **Tools:** Eclipse, VS Code, IntelliJ, Postman, Git, Maven, Tomcat, JUnit, SonarQube  
 - **Cloud:** AWS, Azure (basic)  
@@ -38,11 +38,16 @@ I’m passionate about building scalable applications, writing clean and efficie
 
 ## 📈 Work Experience
 
-### 🧑‍💻 Associate System Engineer @ TCS (March 2024 – Present)
+### 🧑‍💻 Backend Engineer @ UIDAI AADHAAR - GOVERNMENT OF INDIA (January 2026 – Present)
+- Enhanced ERP module usability by reducing user task time by 20%.
+- Improved reporting performance by 35% via async processing and optimized queries.
+- 
+
+### 🧑‍💻 Associate System Engineer @ TCS (March 2024 – October 25)
 - Enhanced ERP module usability by reducing user task time by 20%.
 - Improved reporting performance by 35% via async processing and optimized queries.
 
-### 👨‍💻 Java Developer Intern @ AlmaBetter (August 2023 – February 2024)
+### 👨‍💻 Java Developer Intern @ AlmaBetter (August 2023 – March 2024)
 - Developed multi-module Spring Boot projects.
 - Implemented REST APIs and integrated SonarQube for code quality.
 - Tech Stack: **Spring Boot, Hibernate (JPA), REST APIs**
